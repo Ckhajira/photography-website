@@ -2,7 +2,24 @@ ul li{
     list-style-type: none;
     display: inline;
     padding: 20px;
+    
+   
 }
 a:hover{
     color: gray;
 }
+/*
+.design{
+    margin-left: 100px;
+    margin-top: 50px;
+} */
+.navigation{
+    display: inline;
+    text-align: center;
+    
+}
+img{
+    height: 40px;
+    width: 40px;
+}
+p{display: inline;}
