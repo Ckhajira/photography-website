@@ -30,9 +30,24 @@ ul{
     margin-left: 180px;
 
 }
-img{
+.logo{
     vertical-align: middle;
-    height: 100px;
-    width: 150px;
+    height: 50px;
+    width: 100px;
     margin-left: 35px;
 }
+.nav{
+    background-color: rgb(31, 134, 31);
+}
+ol li{
+    list-style-type: none;
+    display: inline;
+
+}
+.sizing{
+    height: 300px;
+    width: 250px;
+    padding: 20px;
+    
+}
+
