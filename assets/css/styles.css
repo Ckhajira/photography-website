@@ -38,12 +38,15 @@ ul{
 }
 /*
 .nav{
-    background-color: rgb(40, 134, 31);
+    background-color: rgb(6, 7, 8);
 } */
 ol li{
     list-style-type: none;
     display: inline;
 
+}
+body{
+    margin: 0px;
 }
 .sizing{
     height: 300px;
@@ -53,11 +56,12 @@ ol li{
     margin-top: 40px;
     margin-left: 90px;
     
-    /* 
+    
     border: 1px solid black;
     background-color: lightblue;
-    */
+    
 }
+
 .photo-text{
     
     font-size: 20px;
