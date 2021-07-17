@@ -1,25 +1,32 @@
-ul li{
-    list-style-type: none;
-    display: inline;
-    padding: 20px;
-    
-   
-}
+
 a:hover{
     color: gray;
 }
 /*
 .design{
-    margin-left: 100px;
-    margin-top: 50px;
+    margin: 100px;
 } */
-.navigation{
+ul li{
     display: inline;
-    text-align: center;
+    
+    list-style-type: none;
+    
+    padding: 20px;
     
 }
-img{
-    height: 40px;
-    width: 40px;
+ul{
+    display: inline;
+    
+    
+    height: 300px;
+    width: 200px;
+    font-size: 20px;
+    line-height: 20px;
+    vertical-align: middle;
+    margin-left: 100px;
 }
-p{display: inline;}
+img{
+    vertical-align: middle;
+    height: 100px;
+    width: 150px;
+}
