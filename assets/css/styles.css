@@ -44,12 +44,12 @@ body{
     margin: 0px;
 }
 .sizing{
-    height: 300px;
-    width: 250px;
+    height: 250px;
+    width: 300px;
     padding: 10px;
    
     margin-top: 40px;
-    margin-left: 90px;
+    margin-left: 70px;
     
     
     border: 1px solid black;
@@ -169,9 +169,9 @@ footer{
 }
 
 .about{
-    width: 1000px;
+    width: 1400px;
     height:700px;
-    margin-left: 100px;
+    
 }
 
 .head-about{
@@ -181,5 +181,23 @@ footer{
     width: 1000px;
     font-size: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 100px;
+    margin-left: 150px;
+}
+.sizing-2{
+    height: 250px;
+    width: 300px;
+    padding: 10px;
+   
+    margin-top: 40px;
+    margin-left: 70px;
+      
+}
+.gear-header{
+    margin-left: 120px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.gear-paragraph{
+    margin-left: 120px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
