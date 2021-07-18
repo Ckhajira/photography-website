@@ -138,9 +138,9 @@ footer{
 }
 .footers{
     background-color: lightgray;
-    margin-top: 180px;
+    margin-top: 100px;
     padding-top: 50px;
-    padding-bottom: 70px;
+    padding-bottom: 30px;
 }
 .link-style{
     color: black;
@@ -165,7 +165,7 @@ footer{
 .intro-styling{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    font-size: 18px;
+    font-size: 18pmx;
 }
 .short-bio{
     
