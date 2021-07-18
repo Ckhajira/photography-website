@@ -201,3 +201,11 @@ footer{
     font-size: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.contact-details{
+    margin-top: 100px;
+    margin-left: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.contact-details p{
+    font-size: 20px;
+}
