@@ -69,4 +69,43 @@ body{
     height: 720px;
 }
 
+/*
+footer{
+    margin-top: 20px;
+}
+.foot{
+    border-right: solid black 3px;
+    width: 200px;
+    margin-left: 80px;
+    margin-right: 60px;
+    
+}
+.foot-2{
+    display: inline;
+    width: 200px;
+}
+.foot-links{
+    width: 220px;
+   
+    margin: 0px;
+}
+*/
+.foot-links .foot-links2{
+    width: 220px;
+    display: inline;
+    padding: 0px;
+    padding: 25px;
+    list-style-type: none;
+
+    
+}
+.foot-links2{
+    width: 300px;
+    
+}
+
+.foot2{
+    display: inline;
+}
+
 
