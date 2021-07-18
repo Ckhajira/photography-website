@@ -118,4 +118,18 @@ footer{
     height: 40px;
     width: 40px;
 }
+#bar1{
+    
+    width: 33%;
+    float: right;
 
+}
+#bar2{
+    vertical-align: middle;
+    display: inline-block;
+    width: 33%;
+    margin-left: 70px;
+}
+.footers{
+    background-color: darkgreen;
+}
