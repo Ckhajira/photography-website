@@ -96,7 +96,7 @@ footer{
     padding: 0px;
     padding: 25px;
     list-style-type: none;
-    margin-left: 200px;
+    margin-left: 100px;
 
     
 }
@@ -132,4 +132,8 @@ footer{
 }
 .footers{
     background-color: darkgreen;
+}
+.link-style{
+    color: white;
+    text-decoration: none;
 }
