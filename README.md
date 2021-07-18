@@ -12,7 +12,7 @@ are displayed, three per row. After the display of the images, the website has a
 
 The about us page contains the navigation bar and the footer just like the home page. Between these two elements, it contains an image and below it a description.
 
-The "gear we use" page contains the navigation bar and the footer just like the home page. Between these two elements, it contains three images and below them their descriptions
+The "gear" page contains the navigation bar and the footer just like the home page. Between these two elements, it contains three images and below them their descriptions
 
 The contact page contains the navigation bar and the footer just like the home page. Between these two elements, it contains the contact information as text6
 
