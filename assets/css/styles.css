@@ -167,8 +167,19 @@ footer{
     text-align: center;
     font-size: 18pmx;
 }
-.short-bio{
-    
-    
-    
+
+.about{
+    width: 1000px;
+    height:700px;
+    margin-left: 100px;
+}
+
+.head-about{
+    margin-left: 100px;
+}
+.paragraph-about{
+    width: 1000px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
 }
